@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there 👋! I'm Ed.
 
 <!--
 **edlng/edlng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a Third-Year student studying Computer Science at the University of British Columbia! 
+
+Feel free to contact me at [edwardliangedli@gmail.com](mailto:edwardliangedli@gmail.com) and visit my [website](https://www.edwardliang.com).
+
+### My Technologies
+[![My Technologies](https://skillicons.dev/icons?i=aws,github,linux,visualstudio,vscode,vim,docker,postman)](https://skillicons.dev)
+
+### My Languages
+[![My Languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,py,c,cpp,r,mysql)](https://skillicons.dev)
+
