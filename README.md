@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edlng/edlng/output/github-contribution-grid-snake.svg">
 </picture>
 
-I'm currently a Third-Year student studying Computer Science at the University of British Columbia! 
+I'm currently a Fifth-Year student studying Computer Science at the University of British Columbia! 
 
 Feel free to contact me at [edwardliangedli@gmail.com](mailto:edwardliangedli@gmail.com) and visit my [website](https://www.edwardliang.com).
 
