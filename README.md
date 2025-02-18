@@ -25,9 +25,9 @@ I'm currently a Fifth-Year student studying Computer Science at the University o
 
 Feel free to contact me at [edwardliangedli@gmail.com](mailto:edwardliangedli@gmail.com) and visit my [website](https://www.edwardliang.com).
 
-### My Technologies
-[![My Technologies](https://skillicons.dev/icons?i=aws,github,linux,visualstudio,vscode,vim,docker,postman)](https://skillicons.dev)
+### Development Tools
+[![My Technologies](https://skillicons.dev/icons?i=aws,github,git,linux,visualstudio,vscode,vim,docker,postman)](https://skillicons.dev)
 
-### My Languages
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,py,c,cpp,r,mysql)](https://skillicons.dev)
+### Languages & Frameworks
+[![My Languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,py,c,cpp,r,mysql,golang)](https://skillicons.dev)
 
