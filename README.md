@@ -29,5 +29,5 @@ Feel free to contact me at [edwardliangedli@gmail.com](mailto:edwardliangedli@gm
 [![My Technologies](https://skillicons.dev/icons?i=aws,github,git,linux,visualstudio,vscode,vim,docker,postman)](https://skillicons.dev)
 
 ### Languages & Frameworks
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,py,c,cpp,r,mysql,golang)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,html,css,nodejs,react,java,py,c,cpp,r,mysql,golang,rust)](https://skillicons.dev)
 
