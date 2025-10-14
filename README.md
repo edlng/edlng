@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edlng/edlng/output/github-contribution-grid-snake.svg">
 </picture>
 
-I'm currently a Fifth-Year student studying Computer Science at the University of British Columbia! 
+I'm currently a Computer Science student studying at the University of British Columbia! Seeking New Grad 2026 SWE roles!
 
-Feel free to contact me at [edwardliangedli@gmail.com](mailto:edwardliangedli@gmail.com) and visit my [website](https://www.edwardliang.com).
+Feel free to contact me at [eliang.swe@gmail.com](mailto:eliang.swe@gmail.com) and visit my [website](https://www.edwardliang.com).
 
 ### Development Tools
 [![My Technologies](https://skillicons.dev/icons?i=aws,github,git,linux,visualstudio,vscode,vim,docker,postman)](https://skillicons.dev)
