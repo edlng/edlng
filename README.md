@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/edlng/edlng/output/github-contribution-grid-snake.svg">
 </picture>
 
-I'm currently a Computer Science student studying at the University of British Columbia!
+`while True: code()`
 
 Feel free to contact me at [eliang.swe@gmail.com](mailto:eliang.swe@gmail.com) and visit my [website](https://www.edwardliang.com).
 
